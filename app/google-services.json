@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "58942302940",
+    "firebase_url": "https://music-player-db79b-default-rtdb.firebaseio.com",
+    "project_id": "music-player-db79b",
+    "storage_bucket": "music-player-db79b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58942302940:android:af7ea389e20af684016219",
+        "android_client_info": {
+          "package_name": "com.kee.vlmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58942302940-qd7jd5cupen7dnh1r52f03660nvb4ekt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kee.vlmusic",
+            "certificate_hash": "44fa3e1e9ca71012aca9a0f13d73253966f38ff5"
+          }
+        },
+        {
+          "client_id": "58942302940-cnnp4e2lhej4f80o0kq0pu2as8q1klvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqfgJHffAbord0kQ6YwboAlfDqALAV2Uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58942302940-cnnp4e2lhej4f80o0kq0pu2as8q1klvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

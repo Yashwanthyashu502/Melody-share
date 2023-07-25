@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.loader:loader:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../mini project/Hotel-Reservation-Application-main/Hotel-Reservation-Application-main/src/caches/transforms-3/b60b70c6f6562b25077c76e2e77adfe1/transformed/loader-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../mini project/Hotel-Reservation-Application-main/Hotel-Reservation-Application-main/src/caches/transforms-3/b60b70c6f6562b25077c76e2e77adfe1/transformed/loader-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../mini project/Hotel-Reservation-Application-main/Hotel-Reservation-Application-main/src/caches/modules-2/files-2.1/androidx.loader/loader/1.0.0/b9ef587f3e46c7fe5b00264989764e43ff45cada/loader-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

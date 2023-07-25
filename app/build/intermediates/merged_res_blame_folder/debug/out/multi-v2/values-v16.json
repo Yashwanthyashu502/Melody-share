@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\YASHWANTH\\OneDrive\\Desktop\\madpro\\MADPROJECT-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\YASHWANTH\\OneDrive\\Desktop\\mini project\\Hotel-Reservation-Application-main\\Hotel-Reservation-Application-main\\src\\caches\\transforms-3\\d3bb844b8b3cd973da1b1890e54a4e5e\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\YASHWANTH\\OneDrive\\Desktop\\mini project\\Hotel-Reservation-Application-main\\Hotel-Reservation-Application-main\\src\\caches\\transforms-3\\ea8c68cf140349e6d421500bc026d9aa\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

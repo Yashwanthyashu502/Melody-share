@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.dynamicanimation:dynamicanimation:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../mini project/Hotel-Reservation-Application-main/Hotel-Reservation-Application-main/src/caches/transforms-3/c5916c29da22f8acf668874947226ae1/transformed/dynamicanimation-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../mini project/Hotel-Reservation-Application-main/Hotel-Reservation-Application-main/src/caches/transforms-3/c5916c29da22f8acf668874947226ae1/transformed/dynamicanimation-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../mini project/Hotel-Reservation-Application-main/Hotel-Reservation-Application-main/src/caches/modules-2/files-2.1/androidx.dynamicanimation/dynamicanimation/1.0.0/5c050e29af5033ff5e2d58ccf657ae92fdfbda4a/dynamicanimation-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Panchami\\AndroidStudioProjects\\PPMusic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Panchami\\.gradle\\caches\\transforms-2\\files-2.1\\c8eacc75c57f9b11f4a7fe4dea19b1cb\\jetified-JcPlayer-2.6.16\\res\\values-w820dp-v13\\values-w820dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,98,139,184,225",
+                        "endColumns": "42,40,44,40,44",
+                        "endOffsets": "93,134,179,220,265"
+                    }
+                }
+            ]
+        }
+    ]
+}

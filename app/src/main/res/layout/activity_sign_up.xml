@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".SignUp"
+    android:background="@drawable/background">
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="111dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="120dp"
+        android:text="Sign Up"
+        android:textColor="#fff"
+        android:textSize="28sp"
+        android:textStyle="italic" />
+
+    <EditText
+        android:id="@+id/et_fullname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv1"
+
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginRight="20dp"
+        android:hint="Full name"
+        android:padding="7dp"
+        android:textColorHint="#8d000000"
+        android:textSize="20sp"
+        android:textStyle="italic" />
+
+    <EditText
+        android:id="@+id/et_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_fullname"
+        android:layout_marginLeft="20dp"
+
+        android:layout_marginTop="7dp"
+        android:layout_marginRight="20dp"
+        android:hint="Email-id"
+        android:padding="5dp"
+        android:textColorHint="#8d000000"
+        android:textSize="20sp"
+        android:textStyle="italic" />
+
+    <EditText
+        android:id="@+id/et_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_email"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="7dp"
+
+        android:layout_marginRight="20dp"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:padding="5dp"
+        android:textColorHint="#8d000000"
+        android:textSize="20sp"
+        android:textStyle="italic" />
+
+    <EditText
+        android:id="@+id/et_uid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_password"
+        android:layout_marginLeft="20dp"
+
+        android:layout_marginTop="7dp"
+        android:layout_marginRight="20dp"
+        android:hint="User_name"
+        android:padding="5dp"
+        android:textColorHint="#8d000000"
+        android:textSize="20sp"
+        android:textStyle="italic" />
+    <RadioGroup
+        android:id="@+id/radiogroup"
+        android:layout_marginTop="5dp"
+        android:layout_alignLeft="@id/et_password"
+        android:layout_below="@id/et_uid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rbtn_male"
+            style="@style/Widget.AppCompat.CompoundButton.RadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Male"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="italic" />
+
+        <RadioButton
+            android:id="@+id/rbtn_female"
+            style="@style/Widget.AppCompat.CompoundButton.RadioButton"
+            android:layout_width="106dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:text="Female"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="italic" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btn_signup"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/radiogroup"
+        android:layout_alignLeft="@id/radiogroup"
+        android:layout_marginLeft="136dp"
+        android:layout_marginTop="18dp"
+        android:padding="7dp"
+        android:shadowColor="#BD2A2A"
+        android:text="Sign Up"
+
+        android:textAllCaps="false"
+        android:textColor="#fff"
+        android:textSize="22sp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/tv_resend"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_signup"
+        android:layout_centerHorizontal="true"
+        android:text="Resend code?"
+        android:textColor="#fff"
+        android:textSize="22sp"
+        android:textStyle="italic"
+        android:visibility="invisible" />
+
+</RelativeLayout>

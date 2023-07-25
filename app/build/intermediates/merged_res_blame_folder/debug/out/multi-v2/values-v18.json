@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\YASHWANTH\\OneDrive\\Desktop\\madpro\\MADPROJECT-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\YASHWANTH\\OneDrive\\Desktop\\mini project\\Hotel-Reservation-Application-main\\Hotel-Reservation-Application-main\\src\\caches\\transforms-3\\ea8c68cf140349e6d421500bc026d9aa\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

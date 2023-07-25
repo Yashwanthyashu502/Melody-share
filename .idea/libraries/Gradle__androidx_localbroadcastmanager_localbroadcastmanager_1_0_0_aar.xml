@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../mini project/Hotel-Reservation-Application-main/Hotel-Reservation-Application-main/src/caches/transforms-3/ed4acef9f327d532acf384b6b51f0e25/transformed/localbroadcastmanager-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../mini project/Hotel-Reservation-Application-main/Hotel-Reservation-Application-main/src/caches/transforms-3/ed4acef9f327d532acf384b6b51f0e25/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../mini project/Hotel-Reservation-Application-main/Hotel-Reservation-Application-main/src/caches/modules-2/files-2.1/androidx.localbroadcastmanager/localbroadcastmanager/1.0.0/3930e99159fd6b7f1d2e7d5fe9af0924ca1faf9/localbroadcastmanager-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
